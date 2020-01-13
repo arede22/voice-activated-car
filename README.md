@@ -4,37 +4,50 @@ Part of UC-Berkeley lab curriculum of EE16B to use newly learned applications of
 
 All relevant information in comprehensive lab report pdf.
 
+<p align="center">
+  <img src="/images-vids/charlie.jpg">
 
-![Robot (name: Charlie)](/images-vids/charlie.jpg)
+  Our last day with our robot, Charlie!
 
-Our last day with our robot, Charlie!
+</p>
 
-
-![Bye Charlie](/images-vids/goodbye.jpg)
+<p align="center">
+  <img src="/images-vids/goodbye.jpg">
+</p>
 
 Saying goodbye until modifications in next semester!
 
 
-![Circuit1](/images-vids/circ1.png)
+<p align="center">
+  <img src="/images-vids/circ1.png">
+</p>
 
 Front-end circuit laid down
 
 
-![Circuit2](/images-vids/circ2.png)
+<p align="center">
+  <img src="/images-vids/circ2.png">
+</p>
 
 Front-end circuit connected to motors
 
 
-![Circuit3](/images-vids/circ3.png)
+<p align="center">
+  <img src="/images-vids/circ3.png">
+</p>
 
 Pre-training lay-of-the-land
 
 
-![Circuit4](/images-vids/circ4.png)
+<p align="center">
+  <img src="/images-vids/circ4.png">
+</p>
 
 Whole voice-activated car
 
 
-![Team All Together](/images-vids/together.jpg)
+<p align="center">
+  <img src="/images-vids/togther.jpg">
+</p>
 
 Whole team together: Hua Chan Zhuo, Head Lab Assistant Maggie Payne, and me!
