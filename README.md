@@ -41,7 +41,7 @@ All relevant information in comprehensive lab report pdf.
 </div>
 
 <div align="center">
-  <img src="/images-vids/togther.jpg">
+  <img src="/images-vids/together.jpg">
 
   <p> Whole team together: Hua Chan Zhuo, Head Lab Assistant Maggie Payne, and me! </p>
 </div>
