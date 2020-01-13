@@ -4,50 +4,44 @@ Part of UC-Berkeley lab curriculum of EE16B to use newly learned applications of
 
 All relevant information in comprehensive lab report pdf.
 
-<p align="center">
+<div align="center">
   <img src="/images-vids/charlie.jpg">
-  
-  Our last day with our robot, Charlie!
 
-</p>
+  <p> Our last day with our robot, Charlie! </p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="/images-vids/goodbye.jpg">
 
-  Saying goodbye until modifications in next semester!
-</p>
+  <p> Saying goodbye until modifications in next semester! </p>
+</div>
 
-
-<p align="center">
+<div align="center">
   <img src="/images-vids/circ1.png">
-</p>
 
-Front-end circuit laid down
+  <p> Front-end circuit laid down </p>
+</div>
 
-
-<p align="center">
+<div align="center">
   <img src="/images-vids/circ2.png">
-</p>
 
-Front-end circuit connected to motors
+  <p> Front-end circuit connected to motors </p>
+</div>
 
-
-<p align="center">
+<div align="center">
   <img src="/images-vids/circ3.png">
-</p>
 
-Pre-training lay-of-the-land
+  <p> Pre-training lay-of-the-land </p>
+</div>
 
-
-<p align="center">
+<div align="center">
   <img src="/images-vids/circ4.png">
-</p>
 
-Whole voice-activated car
+  <p> Whole voice-activated car </p>
+</div>
 
-
-<p align="center">
+<div align="center">
   <img src="/images-vids/togther.jpg">
-</p>
 
-Whole team together: Hua Chan Zhuo, Head Lab Assistant Maggie Payne, and me!
+  <p> Whole team together: Hua Chan Zhuo, Head Lab Assistant Maggie Payne, and me! </p>
+</div>
