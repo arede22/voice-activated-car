@@ -6,16 +6,14 @@ All relevant information in comprehensive lab report pdf.
 
 <p align="center">
   <img src="/images-vids/charlie.jpg">
-
   Our last day with our robot, Charlie!
 
 </p>
 
 <p align="center">
   <img src="/images-vids/goodbye.jpg">
+  Saying goodbye until modifications in next semester!
 </p>
-
-Saying goodbye until modifications in next semester!
 
 
 <p align="center">
